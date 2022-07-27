@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Pranav Patil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://in.images.search.yahoo.com/images/view;_ylt=AwrKAhocBuFi4aEM8uC9HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2Q0NzFkODMyZjY4OGU4Y2E5MjA4ZTNiYzIyMTBjMDQ2BGdwb3MDNwRpdANiaW5n?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Danimated%2Bcoding%2Bgif%26type%3DE211IN826G91646%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D7&w=800&h=600&imgurl=cdn.dribbble.com%2Fusers%2F926537%2Fscreenshots%2F4502924%2Fpython-2.gif&rurl=https%3A%2F%2Fdribbble.com%2Fshots%2F4502924-Python-developer-animation&size=213.0KB&p=animated+coding+gif&oid=d471d832f688e8ca9208e3bc2210c046&fr2=piv-web&fr=mcafee&tt=Python+developer+animation+by+Marina+Rakhimova+on+Dribbble&b=0&ni=21&no=7&ts=&tab=organic&sigr=OqcVf1Cj3UtD&sigb=pt5SoqruCSno&sigi=qtXN9whXlqx6&sigt=zX4z_P0J6MdJ&.crumb=4QIbHjNAPas&fr=mcafee&fr2=piv-web&type=E211IN826G91646">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavpatil452&label=Profile%20views&color=0e75b6&style=flat" alt="pranavpatil452" /> </p>
 
